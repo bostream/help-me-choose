@@ -1,5 +1,5 @@
 body {
-    background-color: aliceblue;
+    background-color: #76B39D;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -12,7 +12,7 @@ h1 {
     font-size: 40px;
     letter-spacing: 2px;
     margin-bottom: 0px;
-
+    color: #155E63;
 }
 
 .inputSection {
