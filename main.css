@@ -1,10 +1,14 @@
 body {
-    background-color: #76B39D;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin-top: 150px;
+    background-color: #d1f4fa;
+}
+
+body.pink {
+    background-color: #ffe6eb;
 }
 
 h1 {
@@ -32,4 +36,12 @@ input {
 
 .addOption {
     margin-top: 10px;
+}
+
+.resultSection {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
 }
